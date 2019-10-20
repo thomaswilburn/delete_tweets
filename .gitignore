@@ -1,0 +1,4 @@
+*.json
+*.db
+data
+node_modules
